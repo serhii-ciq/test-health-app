@@ -1,8 +1,8 @@
 import boto3
 
 # Replace these with your actual AWS credentials
-ACCESS_KEY = "AKIASLQ33UGGXNI4FS53"
-SECRET_KEY = "GQDlseo23soNg1J6EbHix7M2RGXJ3w/mdOw6"
+ACCESS_KEY = "AKIASLQ33UGGZDGIFMXW"
+SECRET_KEY = "vUjnzP8Vutc6Pr/kxwECEW87W9/lbvRmnhYJv5IK"
 
 def list_s3_buckets(access_key, secret_key):
     # Create an S3 client using the provided access and secret keys
